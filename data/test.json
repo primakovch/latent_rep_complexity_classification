@@ -1,0 +1,402 @@
+[
+    {
+        "claim": "\"Adolf Hitler confiscated all the weapons \u2014 took all the weapons, had a registry of everybody \u2014 and then on the night of June 30, 1934, sent out his secret police and murdered all of his political opponents.\"",
+        "label": "False"
+    },
+    {
+        "claim": "After President Barack Obama\u2019s health care law takes full effect, \"100 percent\" of Americans will \"depend on some form of federal payment, some form of government benefit to help provide for them.\"",
+        "label": "False"
+    },
+    {
+        "claim": "Clip of Lindsey Graham being heckled at airport was filmed in January 2021",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Musician Taylor Swift humiliated a fan for wearing a Trump shirt to one of her shows.",
+        "label": "False"
+    },
+    {
+        "claim": "A 2019 report funded by the World Economic Forum (WEF) said fashion will be abolished by 2030 and \u201chumans will all wear a uniform.\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "John McCain \"is one of the few senators of either party who oppose this bill (to expand education aid for veterans) because he thinks it's too generous.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "A family of three die before testing positive for coronavirus",
+        "label": "False"
+    },
+    {
+        "claim": "Images show Beirut before and after the explosions on August 4 that killed nearly 150 people and wounded 5,000.",
+        "label": "False"
+    },
+    {
+        "claim": "As of January 2023, OpenAI's ChatGPT technology declined to write a poem admiring Donald Trump, but successfully drafted one for Joe Biden.",
+        "label": "True"
+    },
+    {
+        "claim": "Says Mike DeWine took $40,000 from ECOT and \"did nothing while the online for-profit school lied about enrollment and took millions meant for our kids.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "A notorious pedophile was killed by a mother who blew his head off with a shotgun when he tried to rape her 12-year-old child.",
+        "label": "False"
+    },
+    {
+        "claim": "Mitt Romney is proposing a tax plan \"that would give millionaires another tax break and raises taxes on middle class families by up to $2,000 a year.\"",
+        "label": "True"
+    },
+    {
+        "claim": "The Covid-19 variants have planned release dates, as shown by a document from the WHO, John Hopkins University, the Bill and Melinda Gates Foundation and the World Economic forum.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Americans \"are working longer hours for low wages . . . and yet almost all new income and wealth is going to the top 1 percent.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "An optical illusion allows a 3D arrow to appear as if it is always pointing in the same direction (with its mirror reflection showing the opposite direction), even when it is rotated 180 degrees.",
+        "label": "True"
+    },
+    {
+        "claim": "Donald Trump donated $50,000 to ensure suspected Charleston church shooter Dylann Roof was transferred to a \"safer\" prison.",
+        "label": "False"
+    },
+    {
+        "claim": "\u201cThat meth \u2026 it\u2019s almost all coming across the southern border and it\u2019s been accelerating for the last six months.\u201d",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Obama \"has voted in the United States Senate to increase taxes on people who make as low as $42,000 a year.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "An online offer says that the completion of a short survey will result in a Michael Kors handbag for only $7.95.",
+        "label": "False"
+    },
+    {
+        "claim": "Animated series \"The Boondocks\" had a scene about Oprah Winfrey's becoming president in 2020.",
+        "label": "True"
+    },
+    {
+        "claim": "The Bureau of Customs was conducting \"further investigation\" on the Philippine Airlines flight crew from Dubai and Riyadh for undeclared importation of onions and fruits, a BOC press release said on Jan. 17.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "The Ghislaine Maxwell sex trafficking trial can be listened to by dialing 844-721-7237 and entering access code 9991787.",
+        "label": "False"
+    },
+    {
+        "claim": "Musician Ringo Starr admitted that Paul McCartney passed away in 1966 and was replaced by a lookalike.",
+        "label": "False"
+    },
+    {
+        "claim": "\"There are almost 60,000 North Carolina children on waiting lists to access a school that works best for them.\"",
+        "label": "True"
+    },
+    {
+        "claim": "Florida\u2019s proposed medical marijuana amendment \"would make Florida one of the most lenient medical-marijuana states, allowing use for limitless \u2018other conditions\u2019 specified by any physician.\"",
+        "label": "True"
+    },
+    {
+        "claim": "\u201dA German study involving over 25,000 children reveals that major negative impacts on the physical, psychological, and behavioral health of children may be far more widespread than reported\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "Video of people of Italy saying goodbye to the world by standing outside a masjid in Milan as they couldn't control the spread of COVID-19 (SARS-COV-2) virus.",
+        "label": "False"
+    },
+    {
+        "claim": "Sixty Klan members committed suicide after it was announced that Harriet Tubman's image would be placed on the $20 bill.",
+        "label": "False"
+    },
+    {
+        "claim": "\"There are 100 members of the U.S. Senate. Fifty-seven of them, including Russ Feingold, are lawyers. There are zero manufacturers and one accountant.\"",
+        "label": "True"
+    },
+    {
+        "claim": "Video incorrectly identifies Queen Elizabeth as \u2018throwing sweets at African kids'; in fact it shows two French women throwing coins for people in Indochina",
+        "label": "False"
+    },
+    {
+        "claim": "Video shows Indian Navy celebrating Diwali 2020",
+        "label": "False"
+    },
+    {
+        "claim": "\u201cThis government has five licences. Instead of partnering with internationally recognised mining companies, they chose to partner with the Chinese.\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "Five Chinese soldiers killed in India-China skirmish",
+        "label": "False"
+    },
+    {
+        "claim": "\"He positions himself as pro environment, but he scored a zero \u2014 yes, zero \u2014 from the League of Conservation Voters last year.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Buddy Ebsen was slated to play the Tin Woodman in the 1939 film version of The Wizard of Oz, but he had to be replaced after the aluminum makeup used with his costume made him gravely ill.",
+        "label": "True"
+    },
+    {
+        "claim": "Eric Trump tweeted about the airstrike that killed Iran Gen. Qassem Soleimani in early 2020 before the military operation took place.",
+        "label": "False"
+    },
+    {
+        "claim": "\"We have dozens of districts that go for 150 to 200 miles, splitting counties, splintering cities and connecting areas that have very little in common.\"",
+        "label": "True"
+    },
+    {
+        "claim": "\"You've got millions of families paying 40, 50, 60% of their limited incomes to put a roof over their heads.\"",
+        "label": "True"
+    },
+    {
+        "claim": "Netflix show My Secret Terrius predicted the COVID-19 outbreak in 2018.",
+        "label": "False"
+    },
+    {
+        "claim": "A king penguin with highlighter yellow-hued feathers was photographed on a remote beach on South Georgia island in February 2021.",
+        "label": "True"
+    },
+    {
+        "claim": "A law that mandates fingerprinting for gun purchasers is \"a requirement that's reduced gun crimes in the five states where it's the law.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "\u201cIn 1994 just over half of households had electricity, now 85% do.\u201d",
+        "label": "True"
+    },
+    {
+        "claim": "Exposing three more scam Facebook accounts offering Kenyan pastor Ezekiel Odero's prayers \u2013 for cash",
+        "label": "False"
+    },
+    {
+        "claim": "The Medford Water Commission was fined $279,000 for dumping plain drinking water into a stream.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "The Bank of England has spent \u00a365 billion on purchases of long-dated UK government bonds as a result of the government's mini-Budget.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Says Hillary Clinton and the Democrats \"admitted there\u2019s one candidate who scares Hillary Clinton, and that\u2019s Sen. Marco Rubio.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "A female mortuary worker was arrested after becoming pregnant by one of the corpses she was preparing for burial.",
+        "label": "False"
+    },
+    {
+        "claim": "An image shows litter left by Extinction Rebellion environmental protestors in Hyde Park.",
+        "label": "False"
+    },
+    {
+        "claim": "A German photographer took this photo of the sun and the moon between two trees by fixing 16 cameras and waiting for 62 days",
+        "label": "False"
+    },
+    {
+        "claim": "\"National Guard storms Mexico border, makes game-changing impact in just 30 days\"",
+        "label": "True"
+    },
+    {
+        "claim": "\u201cThe country achieved 5,222.3 MW representing the highest peak of power generated onto the national grid and delivered to customers in December 2017.\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "\"Obama held one of the first meetings of his political career in Bill Ayers's home. And they've worked together on various projects in Chicago.\"",
+        "label": "True"
+    },
+    {
+        "claim": "Donald Trump smashed the Oval Office after losing the 2020 US Election to Joe Biden.",
+        "label": "False"
+    },
+    {
+        "claim": "\"For every extra year a girl goes to school, her income goes up 12 percent.\"",
+        "label": "True"
+    },
+    {
+        "claim": "\"The average federal employee makes $120,000 a year. The average private employee makes $60,000 a year.\"",
+        "label": "False"
+    },
+    {
+        "claim": "On or around July 6, 2021, U.S. Rep. Lauren Boebert tweeted \"I would rather see every child in this country dead than pass any new gun laws.\"",
+        "label": "False"
+    },
+    {
+        "claim": "Kolkata Police arrested 63 madrasa children who were on their way to participate in terrorist training.",
+        "label": "False"
+    },
+    {
+        "claim": "\"In 1994 we took over as the democratic government just over 50% of households had access to clean piped water and today over 95% of our people enjoy access to clean piped water.\"",
+        "label": "False"
+    },
+    {
+        "claim": "The Russian government has said that when the Russian army left the Kyiv suburb of Bucha on March 30, there were no bodies on the streets.",
+        "label": "False"
+    },
+    {
+        "claim": "A \u201cpeer reviewed, scientific study showed that the COVID-19 vaccine causes two deaths for every three lives it saves.\u201d",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "The prosecution of state Sen. Don Balfour cost less than $100, excluding prosecutors\u2019 salaries.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Image shows 2030 diet infographic created by the World Economic Forum",
+        "label": "False"
+    },
+    {
+        "claim": "Says Mark Warner told PolitiFact National's \"Lie of the Year\" in 2013.",
+        "label": "False"
+    },
+    {
+        "claim": "Says that in 2009 ExxonMobil \"paid no federal income taxes, received a $156 million rebate.\"",
+        "label": "False"
+    },
+    {
+        "claim": "A viral social media warning in September 2019 described an actual robbery scam by criminals posing as \"Home Affairs\" officials.",
+        "label": "False"
+    },
+    {
+        "claim": "\"In 1789, being a member of Congress in the U.S. was considered a civic duty, and they were only paid 50 cents a day.\"",
+        "label": "False"
+    },
+    {
+        "claim": "Only two of every 10 children suffering from malnutrition are being treated.",
+        "label": "False"
+    },
+    {
+        "claim": "\"Barack (Obama) has one of his biggest supporters in terms of funding, the Exelon Corporation, which has spent millions of dollars trying to make Yucca Mountain the waste depository.\"",
+        "label": "True"
+    },
+    {
+        "claim": "On June 18, 2023, a video that spread on Twitter showed \"incomprehensible military activity\" in the U.S.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "The United States was still importing energy products, including oil, from Russia after the latter invaded Ukraine in early 2022.",
+        "label": "True"
+    },
+    {
+        "claim": "\u201cCoca-Cola has lost $4 bil in market value as people are boycotting Coke for their \u2018try to be less White\u2019 statement.\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "Tide gauges measuring sea level in Rhode Island since 1930 have risen \"maybe about 10 inches since that time.\"",
+        "label": "True"
+    },
+    {
+        "claim": "On July 28, 2021, rapper Lil Nas X released a version of the music video for his song \"Industry Baby\" in which viewers can see him and male dancers performing naked.",
+        "label": "False"
+    },
+    {
+        "claim": "Video claims 560 fake doctors arrested from top hospitals in Kolkata",
+        "label": "False"
+    },
+    {
+        "claim": "Student Bernie Sanders was arrested for throwing eggs at black protesters in 1964",
+        "label": "False"
+    },
+    {
+        "claim": "Says \"only 18 percent of Portland elementary schools have art instruction compared to 83 percent nationally.\"",
+        "label": "True"
+    },
+    {
+        "claim": "\u201cWe have missiles that can knock out a missile in the air 97 percent of the time, and if you send two of them, it's going to get knocked down.\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "A study showed a \u201cweakened immune response in kids injected with Pfizer\u2019s COVID-19 shot\u201d; \u201cThe mRNA Covid jabs damage immune responses to other viruses in children\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "There are no FDA-approved COVID-19 vaccines on the U.S market as of May 2023",
+        "label": "False"
+    },
+    {
+        "claim": "[22 March] is the last day to apply for an EHIC card which would entitle you to free state medical care in EU countries for five years, post-Brexit.",
+        "label": "False"
+    },
+    {
+        "claim": "Says Fred Trump was arrested for \"participating in KKK riot\" in 1927.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Other than University of Virginia\u2019s 2019 basketball team, \"We\u2019ve not had a Virginia team even in the Final Four in over a decade. I think George Mason was the last one\u2026\"",
+        "label": "False"
+    },
+    {
+        "claim": "Drinking water right after eating could reduce one\u2019s skin glow",
+        "label": "False"
+    },
+    {
+        "claim": "The DC Park Service put the number at 11,600 people attending the Million MAGA March.",
+        "label": "False"
+    },
+    {
+        "claim": "As many as 24 people died in a blast caused by 10 cylinders in Mangalore.",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "\u201cThe clothing industry contributes up to 10% of the pollution driving the climate crisis.\u201d",
+        "label": "True"
+    },
+    {
+        "claim": "Says when he was governor,\"we expanded participation in Virginia in early childhood programs by nearly 40 percent.\"",
+        "label": "True"
+    },
+    {
+        "claim": "\"We\u2019ve seen a remarkable reduction in the number of Americans being executed -- it\u2019s down nearly two-thirds over the past generation.\"",
+        "label": "True"
+    },
+    {
+        "claim": "Indian Prime Minister Narendra Modi ranked second among the top 10 most corrupt Prime Ministers list released by Fox News",
+        "label": "False"
+    },
+    {
+        "claim": "A seven-ton locomotive gas engine was embedded in the foundation of the Golden Gate Bridge, after it slid on wet rails while hauling concrete. The locomotive plunged 100 feet into the abutment\u2019s soft cement and could not be recovered, so it has been sealed there throughout the bridge\u2019s history.",
+        "label": "False"
+    },
+    {
+        "claim": "Pizza Hut is offering four free large pizzas and a $20 coupon to commemorate its 63rd anniversary.",
+        "label": "False"
+    },
+    {
+        "claim": "BJP candidate promises good quality beef if voted to power in 2021 assembly polls",
+        "label": "False"
+    },
+    {
+        "claim": "Video shows police clash during Shanghai\u2019s Covid-19 lockdown in 2022",
+        "label": "False"
+    },
+    {
+        "claim": "Audio clip features sounds of the final moments of the five passengers aboard the Titan submersible that imploded in June 2023",
+        "label": "False"
+    },
+    {
+        "claim": "\"One of the questions we asked was can we really continue to ask a coal miner in West Virginia or a single mom in Detroit to pay for these programs?\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "\"We have over 100,000 children, which we\u2019ve never had before, in serious condition and many on ventilators.\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "North Carolina could save \"literally tens of millions of dollars\" if it stopped prosecuting 16-year-olds as adults.",
+        "label": "True"
+    },
+    {
+        "claim": "One half of federal spending goes to Social Security, Medicare and Medicaid while the other half goes to other programs funded with money \"borrowed from a foreign land.\"",
+        "label": "Conflicting"
+    },
+    {
+        "claim": "Plant-based food supplements get \u201cperfect sugar levels restored\u201d and \u201chelp with type 2 [diabetes]\u201d",
+        "label": "False"
+    },
+    {
+        "claim": "Did Trump Tweet The President Should Be \u2018Shot Into The Sun\u2019 If The Dow Drops More Than 1,000 Points In A Day?",
+        "label": "False"
+    }
+]
